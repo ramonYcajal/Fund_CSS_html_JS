@@ -1,4 +1,4 @@
-import { Persona } from './persona.js'
+import { Persona } from './Persona.js'
 document.addEventListener("DOMContentLoaded", function (event) {
     //variables...
         let area = document.querySelector('#textarea');
